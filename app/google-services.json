@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359401656649",
+    "project_id": "personalfinanceaiadvisor",
+    "storage_bucket": "personalfinanceaiadvisor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359401656649:android:9f36fc2e7e19fc835dca98",
+        "android_client_info": {
+          "package_name": "com.example.personalfinanceaiadvisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHGsYv4_SA1Dd7iT3gdJUIJ_sNkHMfZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
