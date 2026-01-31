@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">PersonalFinanceAI</string>
 
-    <!-- Replace the text below with your real OpenAI API key (or better: keep in secure storage) -->
-    <string name="groq_api_key">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</string>
+    <!-- Replace the text below with your real OpenAI API key -->
+    <string name="groq_api_key"> Your API key here </string>
 
     <!-- Replace with your AdMob banner unit id (or use test id during development) -->
-    <string name="admob_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_ad_unit_id"> HERE </string>
 </resources>
